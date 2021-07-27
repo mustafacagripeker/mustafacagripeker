@@ -9,17 +9,19 @@
  
  ### About Me
  <hr>
- Hello , my name is Çağrı. I am IOS Developer. I am using Cocoa Pods and All third party tools for ios development. I have been developing iOS for over a year. I also know the following programming languages. ;
+ ;
  <ul>
  <li>Python</li>
  <li>C#</li>
  </ul>
  
- I developed myself in Front-end development. I learning Angular JS. I can currently coding ; 
+ <h3> Applications I've Developed </h3>
  <ul>
- <li>HTML</li>
- <li>CSS</li>
-  <li>Bootstrap 4</li>
+ <li>Evde Uzman</li>
+ <li>Clean Squared</li>
+ <li>Bitirme Sanal Market App (graduation project) -> Back end + mobile</li>
+ <li>SOS+</li>
+ 
  </ul>
  
  ### About My Life
