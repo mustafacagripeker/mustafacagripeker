@@ -1,6 +1,6 @@
 
 
-<h2>Mustafa Çağrı Peker - Backend Developer</h2>
+<h2>Mustafa Çağrı Peker - IOS Developer</h2>
 
 <hr>
 <a style='margin-right : 15px;' target="_blank" href = 'https://www.linkedin.com/in/mustafa-%C3%A7a%C4%9Fr%C4%B1-peker-2491271a8/'> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -9,7 +9,7 @@
  
  ### About Me
  <hr>
- Hello , my name is Çağrı. I am backend developer. I am using Nodejs for backend development. I can also develop IOS applications using the Swift programming language. I know the syntax of many software languages. Such as ;
+ Hello , my name is Çağrı. I am IOS Developer. I am using Cocoa Pods and All third party tools for ios development. I have been developing iOS for over a year. I also know the following programming languages. ;
  <ul>
  <li>Python</li>
  <li>C#</li>
