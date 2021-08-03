@@ -20,10 +20,8 @@
  <li>Evde Uzman</li>
  <li>Clean Squared</li>
  <li>Bitirme Sanal Market App (graduation project) -> Back end + mobile</li>
+ <li>Hit Club</li>
  <li>SOS+</li>
  
  </ul>
  
- ### About My Life
- 
- I was born in 1996 in Mersin, Turkey. I graduated from Toros University software engineering. I love to play and watch tennis and basketball and I am interested in gym. I have been in the software for about 2 years and I love my job. 
