@@ -26,6 +26,8 @@
  <li>Bitirme Sanal Market App (graduation project) -> Back end + mobile</li>
  <li>Hit Club</li>
  <li>SOS+</li>
+ <li>Rentin</li>
+ <li>Marshall</li>
  
  </ul>
  
