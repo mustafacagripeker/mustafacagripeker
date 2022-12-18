@@ -9,7 +9,7 @@
  
  ### About Me
  
- Hello, my name is Çağrı. I am 25 years old. I graduated from Toros University Computer and Software Engineering. I have been developing IOS applications professionally since 2020. Besides, I can write my own server-side applications. I am quite proficient in Swift and Javascript languages and I use Nodejs in the back-end.
+ Hello, my name is Çağrı. I am 26 years old. I graduated from Toros University Computer and Software Engineering. I have been developing IOS applications professionally since 2020. Besides, I can write my own server-side applications. I am quite proficient in Swift and Javascript languages and I use Nodejs in the back-end.
  
  <hr>
  Programming languages whose syntax I know;
@@ -28,6 +28,6 @@
  <li>SOS+</li>
  <li>Rentin</li>
  <li>Marshall</li>
- 
+ <li>N11 IOS App</li>
  </ul>
  
